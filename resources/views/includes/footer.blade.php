@@ -1,0 +1,1 @@
+<div id="copyright text-right">T-Partner 2018</div>
